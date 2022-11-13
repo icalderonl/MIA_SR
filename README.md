@@ -2,6 +2,8 @@
 Repositorio para el curso de sistemas recomendadores, 2022-02
 
 # Clase 1
+## Intro/ Programa
+
 
 # Clase 2
 
